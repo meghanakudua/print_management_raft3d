@@ -1,4 +1,4 @@
-# Distributed Print Management System using Raft Consensus Algorithm
+# Distributed Print Management System
 **Tech Stack:** Go, Raft Consensus Algorithm(Raft3D), REST API, BoltDB
 - Implemented a fault-tolerant distributed system using the Raft consensus protocol
 - Created REST APIs to handle print jobs and manage cluster
